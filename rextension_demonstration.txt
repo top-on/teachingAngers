@@ -1,0 +1,17 @@
+How to set up and test the R extension for NetLogo.
+
+1. Set environmental parameters (note: probably different for your machine)
+
+export R_HOME=/usr/lib/R
+export JRI_HOME=/usr/lib/R/site-library/rJava/jri
+
+2. Start NetLogo
+
+3. Test R extension:
+
+In code tab, type "extensions [r]" and click "Check".
+If NetLogo does not crash, your are good!
+
+Now, open the file "rextension_example.nlogo" 
+and go through the test buttons.
+If that works, the installation has most probably been successful!
