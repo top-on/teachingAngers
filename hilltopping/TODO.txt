@@ -1,0 +1,5 @@
+TODO for Monday:
+
+write ODD for Hilltopping model
+
+implement Sheep-Wolf model quick and dirty and observe dynamics
